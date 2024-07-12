@@ -1,3 +1,14 @@
+> [!IMPORTANT]
+> We have moved to a new repository with a completely redesigned platform. The new repository is available at [NEBULA](https://github.com/enriquetomasmb/nebula).
+>
+> We have improved the internal architecture, user interface, and communications of this new platform. Based on our research, we have also added new cutting-edge features and functionalities.
+>
+> We look forward to your contributions and feedback in the new repository.
+
+<br>
+<br>
+<br>
+
 <!-- PROJECT LOGO -->
 <br>
 <p align="center">
@@ -5,10 +16,6 @@
     <img src="docs/_static/fedstellar-logo.jpg" alt="fedstellar">
   </a>
   <h3 align="center">Fedstellar: A Platform for Decentralized Federated Learning</h3>
-
-  <p align="center">
-    <a href="https://fedstellar.dev">fedstellar.dev</a> / <a href="https://fedstellar.eu">fedstellar.eu</a> / <a href="https://fedstellar.com">fedstellar.com</a> / <a href="https://federeratedlearning.inf.um.es">federatedlearning.inf.um.es</a>
-  </p>
 </p>
 
 ## About Fedstellar
