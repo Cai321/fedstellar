@@ -1,7 +1,6 @@
 import argparse
 import os
 import sys
-
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))  # Parent directory where is the fedstellar module
 import fedstellar
 from fedstellar.controller import Controller
